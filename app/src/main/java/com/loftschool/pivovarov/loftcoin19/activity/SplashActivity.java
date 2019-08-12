@@ -12,9 +12,12 @@ public class SplashActivity extends AppCompatActivity {
     @Override
     protected void onCreate(@Nullable Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
+        final int DELAY = 2000;
+
         new Handler().postDelayed(()-> {
             startActivity(new Intent(this, MainActivity.class));
-        },2000);
+        },DELAY);
     }
 }
 
