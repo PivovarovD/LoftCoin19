@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="start_working">Start Working</string>
+
+    <string name="welcome_page_1_title">Start Working</string>
+    <string name="welcome_page_1_subtitle">Start Working</string>
+    <string name="welcome_page_2_title">Start Working</string>
+    <string name="welcome_page_2_subtitle">Start Working</string>
+    <string name="welcome_page_3_title">Start Working</string>
+    <string name="welcome_page_3_subtitle">Start Working</string>
+</resources>
